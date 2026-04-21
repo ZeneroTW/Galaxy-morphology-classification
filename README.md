@@ -1,6 +1,6 @@
 # 🌌 Galaxy Morphology Classification — ResNet50 + Transfer Learning
 
-> 🇷🇺 [Читать на русском](README_galaxy.ru.md)
+> 🇷🇺 [Читать на русском](README.ru.md)
 
 A deep learning project for automatic classification of galaxy morphological types from images. Uses the **Galaxy10 SDSS** dataset (21,785 galaxy images across 10 morphology classes) and a two-phase transfer learning strategy based on **ResNet50** pretrained on ImageNet.
 
